@@ -1,4 +1,5 @@
 <index xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xmlns:zenta="http://magwas.rulez.org/zenta">
-   <folder name="1. Analysis" id="cfe70c14-e87a-4e43-a4ae-53207693d761"/>
+   <folder name="1. High level requirements"
+           id="02c7d4e4-3e70-437f-922b-4394418ccec2"/>
 </index>
