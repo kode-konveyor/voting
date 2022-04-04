@@ -13,7 +13,6 @@ import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExcep
 import com.kodekonveyor.annotations.ExcludeFromCodeCoverage;
 import com.kodekonveyor.annotations.InterfaceClass;
 import com.kodekonveyor.exception.UnauthorizedException;
-import com.kodekonveyor.exception.ValidationException;
 
 @ControllerAdvice
 @InterfaceClass
@@ -26,8 +25,7 @@ public class RestResponseEntityExceptionHandler
 
   @ExceptionHandler({
       NotLoggedInException.class,
-      UnauthorizedException.class,
-      ValidationException.class
+      UnauthorizedException.class
   })
 
   public ResponseEntity<Object> handleNotLoggedInException(
