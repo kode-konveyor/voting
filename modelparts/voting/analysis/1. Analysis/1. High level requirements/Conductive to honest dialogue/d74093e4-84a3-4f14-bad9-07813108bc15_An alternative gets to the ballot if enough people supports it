@@ -1,0 +1,6 @@
+<element xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:zenta="http://magwas.rulez.org/zenta"
+         xsi:type="zenta:BasicObject"
+         name="An alternative gets to the ballot if enough people supports it"
+         id="d74093e4-84a3-4f14-bad9-07813108bc15"
+         ancestor="e7c7a3b9-cc91-4d99-854a-d5eab68efd7c"/>

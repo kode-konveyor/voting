@@ -1,0 +1,21 @@
+<index xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:zenta="http://magwas.rulez.org/zenta">
+   <entry name="Conductive to honest dialogue"
+          id="33355436-7bfc-4d74-8da9-afeb6d8026d7"/>
+   <entry name="An alternative gets to the ballot if enough people supports it"
+          id="d74093e4-84a3-4f14-bad9-07813108bc15"/>
+   <entry name="Supporters can stand in if proposer withdraws a proposal"
+          id="26f3500f-a9ac-4431-b035-ed478fbd6c59"/>
+   <entry name="Support for proposal can be withdrawn"
+          id="7d71627a-0ca4-4d37-a123-43e98205041b"/>
+   <entry name="Discussion period between first proposal and voting"
+          id="0df1fb3a-4d3b-40d5-8a60-44ee95cf2d44"/>
+   <entry name="In the discussion period new proposals can be made"
+          id="a4fb3fe0-a94d-42c9-827d-d848f552e4d2"/>
+   <entry name="Offline events for discussion is responsibility of the proposers"
+          id="5fa48096-38d8-4b68-beb6-828e3ebf2614"/>
+   <entry name="Proposals can be withdrawn by proposer"
+          id="9553bf96-3ea7-4b6e-8c0f-161b903a3083"/>
+   <entry name="Proposers are responsible to conduct dialog"
+          id="4ffec5a3-159c-466b-a2fd-08fd458b1730"/>
+</index>
