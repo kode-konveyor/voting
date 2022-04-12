@@ -1,0 +1,6 @@
+<element xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:zenta="http://magwas.rulez.org/zenta"
+         xsi:type="zenta:BasicObject"
+         name="fetch constituencies"
+         id="ca922f6d-cf95-4dc6-927a-db0b417208a7"
+         ancestor="83af8497-bfef-451b-9bc6-f00d58c8df6a"/>

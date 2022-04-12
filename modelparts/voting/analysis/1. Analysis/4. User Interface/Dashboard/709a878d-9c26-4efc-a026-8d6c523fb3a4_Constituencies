@@ -1,0 +1,6 @@
+<element xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:zenta="http://magwas.rulez.org/zenta"
+         xsi:type="zenta:BasicObject"
+         name="Constituencies"
+         id="709a878d-9c26-4efc-a026-8d6c523fb3a4"
+         ancestor="4753b1bb-fc45-4aa1-821d-f08baf8a1766"/>

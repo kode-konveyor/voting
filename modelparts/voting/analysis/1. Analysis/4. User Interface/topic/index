@@ -1,0 +1,15 @@
+<index xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:zenta="http://magwas.rulez.org/zenta">
+   <entry name="topic" id="6d063b79-8aa5-4b1f-af47-9cd1b9f0f8f2"/>
+   <entry id="017678a9-fd7e-44cf-b6ae-a25c7e1b4050"/>
+   <entry id="40887e27-d3ec-4d3d-8304-94c8176a923a"/>
+   <entry id="17ae9531-5abc-42c8-b75b-4b48c9e745fb"/>
+   <entry id="80fa31fa-70cc-4659-8631-17627c09094e"/>
+   <entry name="description" id="1035dfb6-d3cc-49ba-ae85-0c65be03802b"/>
+   <entry name="name" id="27ee5d93-cf19-41d0-87a3-a7d241e6375d"/>
+   <entry name="proposal" id="8394ede9-5e09-473a-8c6d-fa4e5b9eff62"/>
+   <entry name="proposals" id="f58ddf06-e6a8-4d34-8fa0-be2aaacdb000"/>
+   <entry name="topic" id="96a3ea50-c94c-4f3f-919f-32cb400fe6a9"/>
+   <entry name="vote button" id="39f0c211-5185-4447-a50f-c82121cfce84"/>
+   <entry id="d7b2c43f-e7ed-4ca2-ae7a-ee842ddd167d"/>
+</index>

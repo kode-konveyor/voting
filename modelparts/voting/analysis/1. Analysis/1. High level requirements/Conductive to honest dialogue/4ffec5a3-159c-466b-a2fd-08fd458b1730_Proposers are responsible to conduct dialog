@@ -1,0 +1,6 @@
+<element xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:zenta="http://magwas.rulez.org/zenta"
+         xsi:type="zenta:BasicObject"
+         name="Proposers are responsible to conduct dialog"
+         id="4ffec5a3-159c-466b-a2fd-08fd458b1730"
+         ancestor="e7c7a3b9-cc91-4d99-854a-d5eab68efd7c"/>

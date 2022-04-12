@@ -1,0 +1,6 @@
+<element xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:zenta="http://magwas.rulez.org/zenta"
+         xsi:type="zenta:BasicObject"
+         name="proposals"
+         id="f58ddf06-e6a8-4d34-8fa0-be2aaacdb000"
+         ancestor="4753b1bb-fc45-4aa1-821d-f08baf8a1766"/>

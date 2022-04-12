@@ -1,0 +1,9 @@
+<element xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:zenta="http://magwas.rulez.org/zenta"
+         xsi:type="zenta:BasicObject"
+         name="View topic"
+         id="54956757-6805-4388-ac1d-79e813fc8a9e"
+         ancestor="83af8497-bfef-451b-9bc6-f00d58c8df6a">
+   <documentation>Before the voting period the vote button does not show, and proposals cannot be moved around
+In the voting period no editing, vote button shown, only proposals with proposer and enough supporters and the default alternative are shown, and they can be moved around</documentation>
+</element>

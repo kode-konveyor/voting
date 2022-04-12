@@ -1,0 +1,14 @@
+<index xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:zenta="http://magwas.rulez.org/zenta">
+   <entry name="Show dashboard" id="0efe44dc-d978-40f0-9a41-1937dbe9a937"/>
+   <entry id="0f8bab72-e9c7-421c-b764-4552c19ac7d1"/>
+   <entry id="9dc28f3a-ced5-41d0-91bb-dc554356af0e"/>
+   <entry id="3a252c38-9316-43e6-80d4-10e1d7d7578b"/>
+   <entry id="c70e241e-295b-4a67-8f73-8ffa35a1cf29"/>
+   <entry id="226e02a0-cdb5-4f97-b48c-7e49203defa4"/>
+   <entry id="61f23f43-b303-49ba-8188-ca1d0ea82b69"/>
+   <entry id="f75d9c9a-e427-4443-b137-cddb3bca2f08"/>
+   <entry name="select constituency" id="c6735ec8-498c-4d8e-9077-ef7390406bda"/>
+   <entry name="Show dashboard" id="28f8c7fe-4901-49c5-8958-59fa283ed7da"/>
+   <entry id="56f81d2b-db9e-489a-84e2-65e0fa593b76"/>
+</index>

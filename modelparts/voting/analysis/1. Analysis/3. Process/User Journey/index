@@ -1,0 +1,24 @@
+<index xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:zenta="http://magwas.rulez.org/zenta">
+   <folder name="Edit topic description" id="3bcd8978-e176-4cee-8f40-fc7d129e390b"/>
+   <folder name="Show dashboard" id="4aaea187-d989-4aab-ae87-1efd9b306568"/>
+   <folder name="View proposal" id="2919b9f0-1b30-41af-8e26-533811c23e99"/>
+   <folder name="View topic" id="4f2aa789-0b6e-466a-9829-292484071ffc"/>
+   <entry name="User Journey" id="170d1a95-2f2b-4dd1-a5ac-93c47c7def6b"/>
+   <entry name="User Journey" id="b8603b6d-7b39-4680-96d2-663837d58de2"/>
+   <entry id="5c2ccdb0-27f3-45d6-8daa-a3d566b2e064"/>
+   <entry id="e680af82-f84c-490b-8882-eaec7ed42dda"/>
+   <entry id="2f669ed9-220f-4a56-9e2e-0152440fbeec"/>
+   <entry id="fc73eca3-0416-4bcd-98a5-2fa210177d20"/>
+   <entry id="8988074c-a341-4fe0-8db0-78e5d12adc0a"/>
+   <entry id="1ae9e314-5b31-4fad-8d53-f65f9336b4ba"/>
+   <entry id="5f8cd92d-8616-4877-8aa5-464557ea15cc"/>
+   <entry id="cc19f30c-3943-4396-9e90-202944e2a4ed"/>
+   <entry id="ca4c4b45-14bb-4d95-810d-1968c234a688"/>
+   <entry name="Voting" id="df7a0c3c-36e7-4ba8-944e-a2f837554865"/>
+   <entry id="4af9a314-aa4f-4e21-86e3-696bb5b488bc"/>
+   <entry id="e271c88b-201d-4a71-933f-f2fc25e4e83c"/>
+   <entry id="302ef606-5385-4362-a621-bb82fc64ed89"/>
+   <entry id="7133a4a2-802e-4ea5-b42a-c1c8fa4a6941"/>
+   <entry id="8774add4-e054-49f1-9f51-f5af0691c613"/>
+</index>

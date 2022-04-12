@@ -1,0 +1,8 @@
+<index xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:zenta="http://magwas.rulez.org/zenta">
+   <folder name="Dashboard" id="f877bc53-7ec9-41af-89ba-d2ce7f924444"/>
+   <folder name="proposal" id="05151160-38f1-4841-b56b-c85a6e381a56"/>
+   <folder name="topic" id="16c2a229-7956-4c76-a414-f89d75af1938"/>
+   <folder name="description editor" id="1467f3a5-9ad1-4367-9e43-516ff8d258cc"/>
+   <folder name="vote receipt" id="1a738504-3264-4cc2-907d-ba8887a34ff3"/>
+</index>

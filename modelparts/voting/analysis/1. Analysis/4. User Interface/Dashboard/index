@@ -1,0 +1,21 @@
+<index xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:zenta="http://magwas.rulez.org/zenta">
+   <entry name="Dashboard" id="5a7a847f-3ea4-4636-a62e-d76b30c2f2f0"/>
+   <entry name="+" id="7b023b05-08e0-41c9-ac4b-12e1f7754e60"/>
+   <entry name="Constituencies" id="709a878d-9c26-4efc-a026-8d6c523fb3a4"/>
+   <entry name="constituency" id="bf47adbb-32c5-47cb-8e11-92abe4a91c98"/>
+   <entry name="Current topics" id="28567931-3600-472f-b73c-1b90e199857f"/>
+   <entry name="Dashboard" id="a7269793-5897-48a4-9afb-131ef8091698"/>
+   <entry name="Name" id="0fbba34a-125c-4df6-a95c-2ac0c1db7a10"/>
+   <entry name="topic list" id="a859dd75-ac1c-40d8-9480-da30556c252e"/>
+   <entry name="topic summary" id="44ad4643-beca-406e-ad1c-faf1c4d3f6f9"/>
+   <entry name="User info" id="9bead071-6afd-44e8-be27-147132ff8cbd"/>
+   <entry id="7b32de8c-1002-4689-965a-2b743dbe263c"/>
+   <entry id="9ff8c41e-e4a1-4d6a-933b-ffc81b9dcd79"/>
+   <entry id="44b3d5ad-35d1-444d-ab23-191b26c1f1c4"/>
+   <entry id="53c75f68-c592-4989-a279-68e4441948e5"/>
+   <entry id="a70f9de9-ca84-44b4-925f-ac2b19fe53d6"/>
+   <entry id="dad27a0e-9a13-4817-9174-aa4d0c9ecea4"/>
+   <entry id="6a594729-0e09-407e-a748-a35f3ff90800"/>
+   <entry id="fea9c1b4-09d4-46d2-bffe-8fa968b38e76"/>
+</index>

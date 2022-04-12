@@ -1,0 +1,51 @@
+<element xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:zenta="http://magwas.rulez.org/zenta"
+         xsi:type="zenta:ZentaDiagramModel"
+         name="Dashboard"
+         id="5a7a847f-3ea4-4636-a62e-d76b30c2f2f0">
+   <child xsi:type="zenta:DiagramObject"
+          id="f18bfe19-cfcd-47e4-bb0c-9ac9cb636cf7"
+          zentaElement="a7269793-5897-48a4-9afb-131ef8091698">
+      <bounds x="168" y="72" width="439" height="217"/>
+      <child xsi:type="zenta:DiagramObject"
+             id="d131bf2b-5675-4976-97e3-604ca9d2bc7e"
+             zentaElement="9bead071-6afd-44e8-be27-147132ff8cbd">
+         <bounds x="24" y="36" width="-1" height="-1"/>
+         <child xsi:type="zenta:DiagramObject"
+                id="b9c02e38-f820-43ea-8a2e-8febec7bb122"
+                zentaElement="709a878d-9c26-4efc-a026-8d6c523fb3a4">
+            <bounds x="12" y="76" width="156" height="85"/>
+            <child xsi:type="zenta:DiagramObject"
+                   id="f032e7c8-1ca4-48e5-8d19-c14eaf919d5a"
+                   zentaElement="bf47adbb-32c5-47cb-8e11-92abe4a91c98">
+               <bounds x="12" y="24" width="147" height="32"/>
+            </child>
+         </child>
+         <child xsi:type="zenta:DiagramObject"
+                id="a72c0b27-10e1-4ba3-a8a1-1e45f54888f1"
+                zentaElement="0fbba34a-125c-4df6-a95c-2ac0c1db7a10">
+            <bounds x="24" y="24" height="41"/>
+         </child>
+      </child>
+      <child xsi:type="zenta:DiagramObject"
+             id="af125b5b-4a79-44eb-ad45-fb1e81f4052d"
+             zentaElement="28567931-3600-472f-b73c-1b90e199857f">
+         <bounds x="208" y="36" width="221" height="171"/>
+         <child xsi:type="zenta:DiagramObject"
+                id="f8e5ff0b-6b02-4f7f-95ca-6807b9761d7c"
+                zentaElement="a859dd75-ac1c-40d8-9480-da30556c252e">
+            <bounds x="12" y="72" width="197" height="85"/>
+            <child xsi:type="zenta:DiagramObject"
+                   id="72239858-ee26-4b44-9480-aed78190ff6c"
+                   zentaElement="44ad4643-beca-406e-ad1c-faf1c4d3f6f9">
+               <bounds x="12" y="36" width="173" height="27"/>
+            </child>
+         </child>
+         <child xsi:type="zenta:DiagramObject"
+                id="bc26ed28-a8e8-405a-a7c0-9aedca7142e6"
+                zentaElement="7b023b05-08e0-41c9-ac4b-12e1f7754e60">
+            <bounds x="84" y="36" width="48" height="31"/>
+         </child>
+      </child>
+   </child>
+</element>
