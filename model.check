@@ -1,13 +1,5 @@
 <checks>
 <!--
--->
-<check
-		title="Model Errors"
-      	modelfile="model.rich"
-      	modelbasepath="//error[
-		stage/@value='high_level_requirements' or
-		stage/@value='policies' or
-		stage/@value='user_journey' or
 		stage/@value='low_level_requirements' or
 		stage/@value='milestones' or
 		stage/@value='application_structure' or
@@ -16,6 +8,14 @@
 		stage/@value='data_structures' or
 		stage/@value='ui_design' or
 		stage/@value='deprecation' 
+-->
+<check
+		title="Model Errors"
+      	modelfile="model.rich"
+      	modelbasepath="//error[
+		stage/@value='high_level_requirements' or
+		stage/@value='user_journey' or
+		stage/@value='policies'
 	]"
       	modelnamepath="@type"
       	modelvaluepath="for $current in . return concat(//element[@id=$current/@element]/@name,' ',@name)"

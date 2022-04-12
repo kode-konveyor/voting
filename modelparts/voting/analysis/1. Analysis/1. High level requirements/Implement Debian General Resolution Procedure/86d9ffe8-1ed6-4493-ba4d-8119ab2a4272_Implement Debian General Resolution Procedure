@@ -1,0 +1,33 @@
+<element xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:zenta="http://magwas.rulez.org/zenta"
+         xsi:type="zenta:ZentaDiagramModel"
+         name="Implement Debian General Resolution Procedure"
+         id="86d9ffe8-1ed6-4493-ba4d-8119ab2a4272">
+   <child xsi:type="zenta:DiagramObject"
+          id="7b168395-0288-4564-91be-28e0f8ed1735"
+          zentaElement="942e98d9-e04d-4efd-a0bd-19803291261a">
+      <bounds x="152" y="123" width="245"/>
+      <sourceConnection xsi:type="zenta:Connection"
+                        id="a73b2bfb-05f1-4c2e-92c2-a0f3c3132d8f"
+                        source="7b168395-0288-4564-91be-28e0f8ed1735"
+                        target="ca8690c9-9b5c-45b5-876a-febbd9e42a8a"
+                        relationship="f5bae913-79ae-4317-9a1a-241aa1698eea"/>
+      <sourceConnection xsi:type="zenta:Connection"
+                        id="810921ee-e6b8-474a-bbde-a93d59328284"
+                        source="7b168395-0288-4564-91be-28e0f8ed1735"
+                        target="e5940535-72d7-41c0-b9b4-5b81d43633cc"
+                        relationship="e04bef5d-b94f-4150-a705-af4ed292d07c"/>
+   </child>
+   <child xsi:type="zenta:DiagramObject"
+          id="ca8690c9-9b5c-45b5-876a-febbd9e42a8a"
+          targetConnections="a73b2bfb-05f1-4c2e-92c2-a0f3c3132d8f"
+          zentaElement="224b77e0-7e23-4448-bc3e-12b1133b0555">
+      <bounds x="549" y="90" width="196" height="67"/>
+   </child>
+   <child xsi:type="zenta:DiagramObject"
+          id="e5940535-72d7-41c0-b9b4-5b81d43633cc"
+          targetConnections="810921ee-e6b8-474a-bbde-a93d59328284"
+          zentaElement="7db3afc6-6234-4156-9c6b-d8126199a370">
+      <bounds x="534" y="222" width="223" height="67"/>
+   </child>
+</element>

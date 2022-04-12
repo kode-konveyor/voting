@@ -1,2 +1,11 @@
 <index xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-       xmlns:zenta="http://magwas.rulez.org/zenta"/>
+       xmlns:zenta="http://magwas.rulez.org/zenta">
+   <folder name="Implement Debian General Resolution Procedure"
+           id="05c5dca5-2378-41eb-b9f1-48a9b4ef81ff"/>
+   <entry name="High level requirements"
+          id="122e0a4b-3d5a-4186-87f7-1b6b117496a3"/>
+   <entry name="Implement Debian General Resolution Procedure"
+          id="942e98d9-e04d-4efd-a0bd-19803291261a"/>
+   <entry name="voting" id="01d55614-7099-4866-857a-6ff4bcb35904"/>
+   <entry id="c783e426-5d48-469b-971f-c32f6e82a4ba"/>
+</index>
