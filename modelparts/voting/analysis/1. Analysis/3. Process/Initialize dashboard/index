@@ -1,0 +1,14 @@
+<index xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:zenta="http://magwas.rulez.org/zenta">
+   <entry name="Initialize dashboard" id="a81ce903-2575-4a6b-a32e-5fd5b239fad0"/>
+   <entry id="979d5e22-3ca7-44bc-97da-766e345b02d6"/>
+   <entry id="62ec8d89-96fe-4447-a7f2-853b20a796b7"/>
+   <entry name="fetch constituencies" id="ca922f6d-cf95-4dc6-927a-db0b417208a7"/>
+   <entry name="Initialize dashboard" id="68a965bd-3ae8-4d87-b30a-a3af578efd7c"/>
+   <entry name="Login" id="a45e8ed0-bbb0-41fa-b7d9-1ae4a80b854a"/>
+   <entry id="4022fdd0-85f7-413e-ae02-1b190e6d9848"/>
+   <entry id="eaa92b40-6a82-4824-84eb-a1be5d739fb6"/>
+   <entry id="364b0596-bc83-4afe-ba8e-6cf57eb970d3"/>
+   <entry id="a0b598f7-9da9-42aa-aecd-2d4079157f5e"/>
+   <entry id="381e05ec-0eb7-4987-a3da-8f1cd6c2c41d"/>
+</index>

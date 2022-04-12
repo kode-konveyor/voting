@@ -1,0 +1,36 @@
+<element xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:zenta="http://magwas.rulez.org/zenta"
+         xsi:type="zenta:ZentaDiagramModel"
+         name="topic"
+         id="6d063b79-8aa5-4b1f-af47-9cd1b9f0f8f2">
+   <child xsi:type="zenta:DiagramObject"
+          id="3d8543fb-712c-4c29-a35d-5416a195291c"
+          zentaElement="96a3ea50-c94c-4f3f-919f-32cb400fe6a9">
+      <bounds x="96" y="72" width="-1" height="-1"/>
+      <child xsi:type="zenta:DiagramObject"
+             id="2d4dcad6-ac8b-4391-9a71-6752d066dff0"
+             zentaElement="27ee5d93-cf19-41d0-87a3-a7d241e6375d">
+         <bounds x="24" y="24" width="218" height="39"/>
+      </child>
+      <child xsi:type="zenta:DiagramObject"
+             id="df61fd09-be54-48c9-a21b-89e15b6ffe0e"
+             zentaElement="1035dfb6-d3cc-49ba-ae85-0c65be03802b">
+         <bounds x="24" y="68" width="218"/>
+      </child>
+      <child xsi:type="zenta:DiagramObject"
+             id="9a744327-4dc2-46f9-884c-d0934e284428"
+             zentaElement="f58ddf06-e6a8-4d34-8fa0-be2aaacdb000">
+         <bounds x="24" y="133" width="218" height="89"/>
+         <child xsi:type="zenta:DiagramObject"
+                id="3ff8983c-1e2b-4f0e-a4cf-2eadb8dce4e5"
+                zentaElement="8394ede9-5e09-473a-8c6d-fa4e5b9eff62">
+            <bounds x="24" y="24" width="184"/>
+         </child>
+      </child>
+      <child xsi:type="zenta:DiagramObject"
+             id="27ff1b31-eb72-4c72-a5df-786a40ef7bd5"
+             zentaElement="39f0c211-5185-4447-a50f-c82121cfce84">
+         <bounds x="60" y="228" width="-1" height="-1"/>
+      </child>
+   </child>
+</element>

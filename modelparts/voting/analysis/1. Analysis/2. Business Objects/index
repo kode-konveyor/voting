@@ -1,2 +1,7 @@
 <index xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-       xmlns:zenta="http://magwas.rulez.org/zenta"/>
+       xmlns:zenta="http://magwas.rulez.org/zenta">
+   <folder name="User" id="fb510935-f6a8-4f67-9651-090083a8055d"/>
+   <folder name="Constituency" id="fafe23e8-ab6b-4118-bfed-22b4db18e08d"/>
+   <folder name="Topic" id="fcf660ff-c315-424f-945b-f639ef4a79fe"/>
+   <folder name="Decision Alternative" id="20e1147d-2b7f-4f02-9a69-aeb5932f6af5"/>
+</index>

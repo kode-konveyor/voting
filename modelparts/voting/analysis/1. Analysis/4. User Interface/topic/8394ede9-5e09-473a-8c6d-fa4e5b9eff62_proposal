@@ -1,0 +1,9 @@
+<element xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:zenta="http://magwas.rulez.org/zenta"
+         xsi:type="zenta:BasicObject"
+         name="proposal"
+         id="8394ede9-5e09-473a-8c6d-fa4e5b9eff62"
+         ancestor="4753b1bb-fc45-4aa1-821d-f08baf8a1766">
+   <documentation>shows the name, displays the status and number of supporters by graphical clues
+</documentation>
+</element>

@@ -1,6 +1,0 @@
-<element xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xmlns:zenta="http://magwas.rulez.org/zenta"
-         xsi:type="zenta:BasicObject"
-         name="topic list"
-         id="a859dd75-ac1c-40d8-9480-da30556c252e"
-         ancestor="4753b1bb-fc45-4aa1-821d-f08baf8a1766"/>

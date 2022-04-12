@@ -1,34 +1,15 @@
 <index xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xmlns:zenta="http://magwas.rulez.org/zenta">
    <folder name="0. Roles" id="2b735b5d-2b63-43d7-be16-d4928334e952"/>
+   <folder name="User Journey" id="99197d32-d900-4531-b2fe-c74da1039aa2"/>
+   <folder name="Initialize dashboard" id="fdaef3cd-7eb4-42eb-a0d1-a4807b8bc917"/>
    <entry name="Process overview" id="8abb375c-2c82-446e-aeb3-e8326a20f629"/>
-   <entry name="Login" id="a45e8ed0-bbb0-41fa-b7d9-1ae4a80b854a"/>
    <entry id="0a959bdc-d46d-4447-abc0-2abe7d019899"/>
-   <entry id="993f791a-362e-4eb0-b4ed-997562b6105c"/>
-   <entry name="Show dashboard" id="28f8c7fe-4901-49c5-8958-59fa283ed7da"/>
-   <entry id="12aab899-ca4a-4eef-ba58-8f54f56f9e33"/>
-   <entry name="Dashboard" id="a7269793-5897-48a4-9afb-131ef8091698"/>
-   <entry id="0f8bab72-e9c7-421c-b764-4552c19ac7d1"/>
-   <entry name="User info" id="9bead071-6afd-44e8-be27-147132ff8cbd"/>
-   <entry id="7b32de8c-1002-4689-965a-2b743dbe263c"/>
-   <entry name="Name" id="0fbba34a-125c-4df6-a95c-2ac0c1db7a10"/>
-   <entry id="9ff8c41e-e4a1-4d6a-933b-ffc81b9dcd79"/>
-   <entry name="Constituencies" id="709a878d-9c26-4efc-a026-8d6c523fb3a4"/>
-   <entry id="44b3d5ad-35d1-444d-ab23-191b26c1f1c4"/>
-   <entry name="Current topics" id="28567931-3600-472f-b73c-1b90e199857f"/>
-   <entry id="53c75f68-c592-4989-a279-68e4441948e5"/>
-   <entry name="topic list" id="a859dd75-ac1c-40d8-9480-da30556c252e"/>
-   <entry id="a70f9de9-ca84-44b4-925f-ac2b19fe53d6"/>
-   <entry name="+" id="7b023b05-08e0-41c9-ac4b-12e1f7754e60"/>
-   <entry id="dad27a0e-9a13-4817-9174-aa4d0c9ecea4"/>
-   <entry name="name" id="b0f4cd5b-3ce5-4a18-91dc-9975a9037f9c"/>
    <entry id="712df756-a789-4850-a6f9-dda24df18004"/>
-   <entry name="User" id="18914aff-562e-4070-a7c7-cde837ff487b"/>
-   <entry id="6ab0204c-1e42-4227-a664-ac307fbb8328"/>
-   <entry name="constituency" id="30878933-140f-4852-a17d-9e1a16eb67ba"/>
-   <entry id="7c539038-cc99-40a8-af0f-2de4d495e737"/>
-   <entry name="name" id="f00745b5-6794-4460-b2ce-554b4a68fa98"/>
-   <entry id="31917dff-bb1d-4d2b-999d-c824cc0b8f3b"/>
-   <entry id="04189693-2929-4a38-b81f-42373f17af6d"/>
-   <entry id="a839dad5-e828-4e99-9a87-904c384c41df"/>
+   <entry id="f8a0e2bb-7cad-443d-bee1-f57428a45305"/>
+   <entry id="7a4b2efd-4e27-46b9-bacb-61ef61c22caa"/>
+   <entry id="4c9f980c-970d-421b-a1ab-48c2194ecb14"/>
+   <entry id="d7960da9-0408-445f-8bfb-45af2d51a178"/>
+   <entry id="05850db0-d0bb-4079-896e-a1ce969d72ac"/>
+   <entry id="3dbcb489-f925-4d9b-bbd8-194b058d0785"/>
 </index>

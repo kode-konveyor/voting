@@ -1,0 +1,8 @@
+<element xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:zenta="http://magwas.rulez.org/zenta"
+         xsi:type="zenta:BasicObject"
+         name="topic summary"
+         id="44ad4643-beca-406e-ad1c-faf1c4d3f6f9"
+         ancestor="4753b1bb-fc45-4aa1-821d-f08baf8a1766">
+   <documentation>Shows the topic name, possibly the constituency, and encodes the status with graphical clues</documentation>
+</element>

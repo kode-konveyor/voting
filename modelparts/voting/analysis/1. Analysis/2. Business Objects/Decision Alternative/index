@@ -1,0 +1,13 @@
+<index xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:zenta="http://magwas.rulez.org/zenta">
+   <entry name="Decision Alternative" id="9bc11689-5955-40a9-bbc0-40c84c84ceba"/>
+   <entry name="Decision Alternative" id="9a18ec13-7b33-4a72-b7fc-3f75bc0638a3"/>
+   <entry name="description" id="55286b15-b2d2-44ba-a9a4-3bbc1a99d77c"/>
+   <entry name="issue time" id="3177d7a7-7107-4766-ab6e-db2a396dfc0e"/>
+   <entry name="name" id="d21ec0b6-4d7c-4f54-88ea-53fc8f466edc"/>
+   <entry id="c8639254-2fe3-4d55-bf1c-40214615a87d"/>
+   <entry id="9a882dcb-1109-4a94-a5a8-8189dc821807"/>
+   <entry id="043c6139-131d-4add-8e21-c975af86a8e6"/>
+   <entry name="representative" id="86e0ebd4-20ad-4f96-b949-407cbd076d6c"/>
+   <entry name="supporter" id="946d086c-427b-446b-a6aa-db004ffb759a"/>
+</index>
