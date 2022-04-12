@@ -1,11 +1,20 @@
 <index xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xmlns:zenta="http://magwas.rulez.org/zenta">
-   <folder name="Implement Debian General Resolution Procedure"
-           id="05c5dca5-2378-41eb-b9f1-48a9b4ef81ff"/>
+   <folder name="Procedural equality" id="139db79e-02ab-429a-adea-234d2db7bc17"/>
+   <folder name="The result measures the actual will of the constituency"
+           id="8b467c56-1c8b-4d67-aba8-983b40148171"/>
+   <folder name="Conductive to honest dialogue"
+           id="99c17ef1-8d0a-4f82-96c4-f6870e1ab0b6"/>
+   <folder name="Resistent to coercion and dezinformation attacks"
+           id="f99c0686-6225-497b-8d47-be54d9a74ff4"/>
    <entry name="High level requirements"
           id="122e0a4b-3d5a-4186-87f7-1b6b117496a3"/>
-   <entry name="Implement Debian General Resolution Procedure"
-          id="942e98d9-e04d-4efd-a0bd-19803291261a"/>
    <entry name="voting" id="01d55614-7099-4866-857a-6ff4bcb35904"/>
-   <entry id="c783e426-5d48-469b-971f-c32f6e82a4ba"/>
+   <entry name="Procedural equality" id="e89c5688-f854-4c72-9fc7-dbe021cad06e"/>
+   <entry name="Conductive to honest dialogue"
+          id="c149545a-7966-42ac-a284-dcd244e55595"/>
+   <entry name="Resistent to coercion and dezinformation attacks"
+          id="ebd2f9e0-3d28-42a0-9e2f-31202ce6097a"/>
+   <entry name="The result measures the actual will of the constituency"
+          id="37f955ba-139e-46bf-8484-a4ecc7bd9f46"/>
 </index>

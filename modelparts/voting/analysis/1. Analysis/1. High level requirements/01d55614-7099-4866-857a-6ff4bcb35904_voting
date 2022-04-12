@@ -3,4 +3,6 @@
          xsi:type="zenta:BasicObject"
          name="voting"
          id="01d55614-7099-4866-857a-6ff4bcb35904"
-         ancestor="1fd2be20-d3ab-4f28-9171-73ef55961bd5"/>
+         ancestor="1fd2be20-d3ab-4f28-9171-73ef55961bd5">
+   <documentation>Implement the Debian General Resolution Procedure</documentation>
+</element>

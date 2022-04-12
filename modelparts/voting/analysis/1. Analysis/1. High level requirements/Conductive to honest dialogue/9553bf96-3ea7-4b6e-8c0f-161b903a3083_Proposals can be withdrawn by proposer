@@ -1,0 +1,6 @@
+<element xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:zenta="http://magwas.rulez.org/zenta"
+         xsi:type="zenta:BasicObject"
+         name="Proposals can be withdrawn by proposer"
+         id="9553bf96-3ea7-4b6e-8c0f-161b903a3083"
+         ancestor="e7c7a3b9-cc91-4d99-854a-d5eab68efd7c"/>

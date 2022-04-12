@@ -1,0 +1,11 @@
+<element xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:zenta="http://magwas.rulez.org/zenta"
+         xsi:type="zenta:BasicObject"
+         name="Offline events for discussion is responsibility of the proposers"
+         id="5fa48096-38d8-4b68-beb6-828e3ebf2614"
+         ancestor="09407896-919e-4388-9e20-427696f9fbbc">
+   <documentation>All proposers have to have the same say in those events
+
+
+</documentation>
+</element>

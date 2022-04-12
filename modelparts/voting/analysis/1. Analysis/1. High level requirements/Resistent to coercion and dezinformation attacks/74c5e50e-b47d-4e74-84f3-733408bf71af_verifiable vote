@@ -1,0 +1,6 @@
+<element xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:zenta="http://magwas.rulez.org/zenta"
+         xsi:type="zenta:BasicObject"
+         name="verifiable vote"
+         id="74c5e50e-b47d-4e74-84f3-733408bf71af"
+         ancestor="e7c7a3b9-cc91-4d99-854a-d5eab68efd7c"/>

@@ -1,0 +1,13 @@
+<index xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:zenta="http://magwas.rulez.org/zenta">
+   <entry name="Resistent to coercion and dezinformation attacks"
+          id="f7ca2a76-9d99-478c-a33f-e6dd7428e5b6"/>
+   <entry name="Ability to transform dishonest proposals to cooperative ones"
+          id="3d5e77c8-5d21-443e-8a6b-cabeecf08d2a"/>
+   <entry name="Help voters weeding out dishonest proposals"
+          id="95a9e136-1950-4ff2-87f1-ab775377d787"/>
+   <entry name="ensure voter uniquity" id="11eb34fe-831e-4753-a82b-9f8b556b24c1"/>
+   <entry name="Voting security" id="5a248eb4-b632-4f4e-a601-f6a77024062b"/>
+   <entry name="Secret vote" id="1116fe9f-6db8-4d2e-be58-b4fa88306eae"/>
+   <entry name="verifiable vote" id="74c5e50e-b47d-4e74-84f3-733408bf71af"/>
+</index>
